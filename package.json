@@ -1,0 +1,19 @@
+{
+  "name": "skapalon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eMDe33/bulux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eMDe33/bulux/issues"
+  },
+  "homepage": "https://github.com/eMDe33/bulux#readme"
+}
